@@ -1,0 +1,1 @@
+#Individual Character stats, inventory, active state

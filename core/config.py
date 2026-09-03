@@ -1,0 +1,1 @@
+#Constants (tick rates, max character slots = 12, etc)

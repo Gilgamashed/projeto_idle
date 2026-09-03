@@ -1,0 +1,1 @@
+#Monster templates and instances. Each monster has its own stats, loot table, and behavior patterns.
